@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-09-hibernate-integration
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dhandapani.sudhakar
+Implementation-Vendor-Id: com.sakdd.springboot
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ 09-hibernate-integration/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
